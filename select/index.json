@@ -1,0 +1,96 @@
+{
+  "version": 1,
+  "base_track": "アンダー",
+  "base_artist": "サカナクション",
+  "createdAt": "2025-12-16T08:51:20.352644Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "アンダー・ラプチャー",
+      "artist": "Soulfly",
+      "has_synced": true,
+      "path": "select/01_アンダー・ラプチャー_Soulfly.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "アンダー ザ シー:リトルマーメイド",
+      "artist": "α Healing",
+      "has_synced": false,
+      "path": "select/02_アンダー_ザ_シー_リトルマーメイド_α_Healing.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "アンダー・ザ・シー",
+      "artist": "kuh",
+      "has_synced": false,
+      "path": "select/03_アンダー・ザ・シー_kuh.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "アンダー",
+      "artist": "sakanaction",
+      "has_synced": false,
+      "path": "select/04_アンダー_sakanaction.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "アンダー",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/05_アンダー_サカナクション.txt"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "アンダー",
+      "artist": "乃木坂46",
+      "has_synced": true,
+      "path": "select/06_アンダー_乃木坂46.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "アンダー・グラス・アンド・クローヴァー",
+      "artist": "Children Of Bodom",
+      "has_synced": false,
+      "path": "select/07_アンダー・グラス・アンド・クローヴァー_Children_Of_Bodom.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "アンダー・ザ・シー",
+      "artist": "May J.",
+      "has_synced": false,
+      "path": "select/08_アンダー・ザ・シー_May_J..txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "アンダー・ザ・シー",
+      "artist": "miwa",
+      "has_synced": true,
+      "path": "select/09_アンダー・ザ・シー_miwa.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "アンダー",
+      "artist": "MIMI",
+      "has_synced": true,
+      "path": "select/10_アンダー_MIMI.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "アンダー",
+      "artist": "サカナクション",
+      "has_synced": false,
+      "path": "select/pl_01_アンダー_サカナクション.txt"
+    }
+  ]
+}
