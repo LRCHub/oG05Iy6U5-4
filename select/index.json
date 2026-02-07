@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "アンダー",
   "base_artist": "サカナクション",
-  "createdAt": "2025-12-16T08:52:07.136221Z",
+  "createdAt": "2026-02-07T05:55:50.074402Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -83,6 +83,14 @@
       "artist": "MIMI",
       "has_synced": true,
       "path": "select/10_アンダー_MIMI.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "アンダー・ザ・シー (日本語バージョン)",
+      "artist": "上條恒彦",
+      "has_synced": true,
+      "path": "select/11_アンダー・ザ・シー_(日本語バージョン)_上條恒彦.lrc"
     },
     {
       "id": "petitlyrics_1",
